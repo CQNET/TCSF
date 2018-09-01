@@ -9,7 +9,7 @@
 💪CQNET组织致力于提供一套开源的“云功能测试”解决方案，正在努力中....
 
 ----------------------------
-<img src="https://i.imgur.com/ccN0twr.gif" width = "300" height = "300" div align=center />
+<img src="https://i.imgur.com/ccN0twr.gif" width = "200" height = "200" div align=right />
 
 
 “云计算”这个词现在听到的次数没有前几年多了，当下的云已不再是最开始提供计算、存储这样的“水、电、气”的概念，而是一种可以包罗几乎所有信息技术的服务模式。
